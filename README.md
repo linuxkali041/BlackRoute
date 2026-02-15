@@ -75,7 +75,7 @@ Unlike standard VPN clients, BlackRoute offers granular control over your connec
 - **Core Engine**: [Project X](https://github.com/XTLS/Xray-core)
 - **UI Framework**: WPF (.NET 8)
 - **Icons**: Fluent System Icons
-- **Developed by**: **INFECTDx**
+- **Developed by**: [INFECTDx](https://t.me/INFECTDx).
 
 ---
 
